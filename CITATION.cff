@@ -3,8 +3,8 @@ message: If you use this software, please cite it using these metadata.
 title: Data Converter
 abstract: A data converter package to convert data between JSON, YAML and XML.
 type: software
-version: 0.1.0
-date-released: 2024-06-06
+version: 0.1.1
+date-released: 2024-06-26
 repository-code: https://github.com/DevelopersToolbox/data-converter-package
 keywords:
   - "Wolf Software"

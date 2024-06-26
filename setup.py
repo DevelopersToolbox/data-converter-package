@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.data-converter',
-    version='0.1.0',
+    version='0.1.1',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
     description='A data converter package to convert data between JSON, YAML and XML.',
